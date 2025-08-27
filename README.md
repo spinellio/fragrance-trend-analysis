@@ -41,25 +41,31 @@ Derived datasets in the `/data/processed/` folder are shared under the same lice
 
 ## 📂 Repository Structure  
 fragrance-trend-analysis/
+
+```text
+fragrance-trend-analysis/
 │
 ├── data/
-│ ├── raw/ # Sample raw files (Google Trends, TikTok, Kaggle)
-│ ├── processed/ # Cleaned + structured data (ready for analysis)
+│   ├── raw/                  # Sample raw files (Google Trends, TikTok, Kaggle)
+│   ├── processed/            # Cleaned + structured data (ready for analysis)
 │
 ├── scripts/
-│ ├── merge_notes_GT.R # Merge note-level trend files
-│ ├── merge_cats_GT.R # Merge category-level trend files
-│ ├── data_cleaning.R # Full cleaning & tagging pipeline
+│   ├── merge_notes_GT.R      # Merge note-level trend files
+│   ├── merge_cats_GT.R       # Merge category-level trend files
+│   ├── data_cleaning.R       # Full cleaning & tagging pipeline
 │
 ├── visuals/
-│ ├── categories/ # Tableau charts: growth, opportunity, share vs. growth
-│ ├── notes/ # Emerging & underused note analysis
-│ ├── crossmarket/ # US vs. UK divergence dashboards
+│   ├── categories/           # Tableau charts: growth, opportunity, share vs. growth
+│   ├── notes/                # Emerging & underused note analysis
+│   ├── crossmarket/          # US vs. UK divergence dashboards
 │
-├── Fragrance_Insights_Report.pdf # Final written report
-├── Fragrance_Trend_Deck.pptx # Final presentation slides
-├── README.md
+├── Fragrance_Insights_Report.pdf    # Final written report  
+├── Fragrance_Trend_Deck.pptx        # Final presentation slides  
+├── README.md  
 └── LICENSE
+yaml
+Copy code
+
 
 ---
 
