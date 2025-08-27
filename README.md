@@ -2,9 +2,9 @@
 
 **Portfolio Case Study – Data Analytics & Market Insights**
 
-This project analyzes **fragrance categories and notes** across the **US & UK** to identify whitespace opportunities for product innovation. Using Google Trends, TikTok, Instagram, and Fragrantica data, I created a combined **Opportunity Score** to highlight **high-interest, rising, and underused** fragrance spaces. I also developed a **Buzz Score** based on Instagram and TikTok hashtag volumes, and a **Weighted Buzz Score** with increased weight for TikTok to reflect its dominant influence on social trend cycles.  
+This project analyzes **fragrance categories and notes** across the **US & UK** to identify whitespace opportunities for product innovation. Using Google Trends, TikTok, Instagram, and Fragrantica data, I created a combined **Opportunity Score** to highlight **high-interest, rising, and underused** fragrance spaces. I also developed a **Buzz Score** based on Instagram and TikTok hashtag volumes, a **Weighted Buzz Score** (prioritizing TikTok's influence), and a **Trend Momentum Score** to capture growth velocity across time and platforms.
 
-The report is designed to demonstrate **end-to-end insight analysis**, from raw data collection to visualization and strategic recommendations.  
+The report is designed to demonstrate **end-to-end insight analysis**, from raw data collection to visualization and strategic recommendations.
 
 ---
 
@@ -19,7 +19,7 @@ The report is designed to demonstrate **end-to-end insight analysis**, from raw 
 ## 🛠️ Tools & Skills Demonstrated  
 - **R** (`tidyverse`, `lubridate`, `stringr`, `janitor`) → Data cleaning, CSV merging, feature engineering  
 - **Data Structuring** → Merged 120+ Google Trends files, structured Kaggle + social media datasets  
-- **Custom Metrics** → Built **Opportunity Score** (Weighted Demand Signal ÷ Median Supply), **Buzz Score**, and **Weighted Buzz Score** (TikTok-prioritized)  
+- **Custom Metrics** → Built **Opportunity Score** (Weighted Demand Signal ÷ Median Supply), **Buzz Score**, **Weighted Buzz Score** (TikTok-prioritized), and **Trend Momentum Score** (to quantify rate of trend growth)  
 - **Tableau** → Dashboards: growth heatmaps, share vs. growth, emerging notes, cross-market insights  
 - **Insight Storytelling** → Translated raw data into **actionable business recommendations**
 
