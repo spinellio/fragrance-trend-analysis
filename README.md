@@ -61,16 +61,16 @@ fragrance-trend-analysis/
 ├── Fragrance_Trend_Deck.pptx        # Final presentation slides  
 ├── README.md  
 └── LICENSE
+ ``` 
 
 ---
-
 ## 📈 Key Insights  
 
-- **Green**, **Amber**, and **Gourmand** categories are the most under-leveraged but fast-rising segments.  
-- **Peach, Saffron, Apple, Lavender, and Ginger** show high trend momentum with low market saturation.  
-- **Vanilla, Rose, Oud** dominate but risk oversaturation — brands need modern takes or fresh blends.  
+ **Green**, **Amber**, and **Gourmand** categories are the most under-leveraged but fast-rising segments.  
+- **Peach**, **Saffron**, **Apple**, **Lavender**, and **Ginger** show high trend momentum with low market saturation.  
+- **Vanilla**, **Rose**, and **Oud** dominate but risk oversaturation — brands need modern takes or fresh blends.  
 - **US** consumers are faster to adopt bold, experimental notes, while the **UK** market favors tradition.  
-- A **“Green Revival”** strategy offers a rare shared opportunity across both regions.  
+- A **"Green Revival"** strategy offers a rare shared opportunity across both regions.
 
 ---
 
@@ -102,6 +102,6 @@ This project is provided without a formal license. Educational and personal use 
 
 **Olivia Spinelli**  
 📍 Paris, France  
-[LinkedIn →](https://www.linkedin.com/in/olivia-spinelli) | [Email →](mailto:spinellio19@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/olivia-spinelli) | [Email](mailto:spinellio19@gmail.com)
 
 ---
