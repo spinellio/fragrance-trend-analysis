@@ -40,8 +40,6 @@ Derived datasets in the `/data/processed/` folder are shared under the same lice
 ---
 
 ## 📂 Repository Structure  
-fragrance-trend-analysis/
-
 ```text
 fragrance-trend-analysis/
 │
@@ -63,9 +61,6 @@ fragrance-trend-analysis/
 ├── Fragrance_Trend_Deck.pptx        # Final presentation slides  
 ├── README.md  
 └── LICENSE
-yaml
-Copy code
-
 
 ---
 
