@@ -2,7 +2,7 @@
 
 **Portfolio Case Study – Data Analytics & Market Insights**
 
-This project analyzes **fragrance categories and notes** across the **US & UK** to identify whitespace opportunities for product innovation. Using Google Trends, TikTok, Instagram, and Fragrantica data, I created a combined **Opportunity Score** to highlight **high-interest, rising, and underused** fragrance spaces.  
+This project analyzes **fragrance categories and notes** across the **US & UK** to identify whitespace opportunities for product innovation. Using Google Trends, TikTok, Instagram, and Fragrantica data, I created a combined **Opportunity Score** to highlight **high-interest, rising, and underused** fragrance spaces. I also developed a **Buzz Score** based on Instagram and TikTok hashtag volumes, and a **Weighted Buzz Score** with increased weight for TikTok to reflect its dominant influence on social trend cycles.  
 
 The report is designed to demonstrate **end-to-end insight analysis**, from raw data collection to visualization and strategic recommendations.  
 
@@ -19,7 +19,7 @@ The report is designed to demonstrate **end-to-end insight analysis**, from raw 
 ## 🛠️ Tools & Skills Demonstrated  
 - **R** (`tidyverse`, `lubridate`, `stringr`, `janitor`) → Data cleaning, CSV merging, feature engineering  
 - **Data Structuring** → Merged 120+ Google Trends files, structured Kaggle + social media datasets  
-- **Custom Metrics** → Built **Opportunity Score** (Weighted Demand Signal ÷ Median Supply)  
+- **Custom Metrics** → Built **Opportunity Score** (Weighted Demand Signal ÷ Median Supply), **Buzz Score**, and **Weighted Buzz Score** (TikTok-prioritized)  
 - **Tableau** → Dashboards: growth heatmaps, share vs. growth, emerging notes, cross-market insights  
 - **Insight Storytelling** → Translated raw data into **actionable business recommendations**
 
@@ -29,7 +29,6 @@ The report is designed to demonstrate **end-to-end insight analysis**, from raw 
 - **Google Trends** – Weekly search interest for fragrance notes & categories (US + UK)  
 - **TikTok & Instagram** – Hashtag volumes (manually collected)  
 - **Fragrantica Dataset** – Public dataset via Kaggle, cleaned for category/note mapping  
-- **Open Beauty Facts** – Supply side data (note and category prevalence)
 
 📌 *Note: Raw datasets have been cleaned and anonymized for clarity. Sample inputs are included in `/data/raw/`, with full processed data in `/data/processed/`.*
 
@@ -73,7 +72,19 @@ fragrance-trend-analysis/
 - A **"Green Revival"** strategy offers a rare shared opportunity across both regions.
 
 ---
+## 📦 Deliverables
 
+This case study includes both a full written report and a visual presentation deck. These deliverables summarize the project’s methodology, findings, and strategic recommendations.
+
+- 📄 **Fragrance_Insights_Report.pdf**  
+  A comprehensive report outlining the data sources, methodology (including Opportunity Score and Buzz Score calculations), key insights, and market strategy recommendations.
+
+- 📊 **Fragrance_Trend_Deck.pptx**  
+  A visual summary presentation featuring Tableau dashboards, trend heatmaps, note/category opportunity matrices, and cross-market comparisons for stakeholders.
+
+You can find both files in the root directory of this repository.
+
+---
 ## 📌 How to Use This Repo  
 1. Explore `/data/processed/` for final datasets  
 2. Review `/scripts/` for R-based cleaning & merging workflows  
