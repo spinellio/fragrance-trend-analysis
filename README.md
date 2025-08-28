@@ -77,10 +77,10 @@ fragrance-trend-analysis/
 
 This case study includes both a full written report and a visual presentation deck. These deliverables summarize the project’s methodology, findings, and strategic recommendations.
 
-- [📄 **Fragrance_Insights_Report.pdf**](./Case Study Report_ Fragrance Opportunities Insights.pdf) 
+- [📄 **Case Study Report — Fragrance Opportunities Insights (PDF)**](./Case%20Study%20Report_%20Fragrance%20Opportunities%20Insights.pdf)  
   A comprehensive report outlining the data sources, methodology (including Opportunity Score and Buzz Score calculations), key insights, and market strategy recommendations.
 
-- [📊 **Fragrance_Trend_Deck.pptx**](./Fragrance_Trend_Deck.pptx) 
+- [📊 **Fragrance Opportunities Insights Report (PPTX)**](./Fragrance%20Opportunities%20Insights%20Report.pptx)  
   A visual summary presentation featuring Tableau dashboards, trend heatmaps, note/category opportunity matrices, and cross-market comparisons for stakeholders.
 
 You can find both files in the root directory of this repository.
