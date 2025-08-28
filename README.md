@@ -88,8 +88,8 @@ You can find both files in the root directory of this repository.
 
 ---
 ## 📌 How to Use This Repo  
-1. Explore `/data/processed/` for final datasets  
-2. Review `/scripts/` for R-based cleaning & merging workflows  
+1. Explore `/data/` for final datasets  
+2. Review `/script/` for R-based cleaning & merging workflows  
 3. Browse `/visuals/` for Tableau chart outputs  
 4. Read the full report and deck in the root directory for full insights & strategy  
 
