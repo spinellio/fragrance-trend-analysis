@@ -43,23 +43,24 @@ Derived datasets in the `/data/processed/` folder are shared under the same lice
 fragrance-trend-analysis/
 │
 ├── data/
-│   ├── raw/                  # Sample raw files (Google Trends, TikTok, Kaggle)
-│   ├── processed/            # Cleaned + structured data (ready for analysis)
+│   ├── GT_Notes_Merged_Monthly.csv                # Google Trends Notes Data
+│   ├── GT_Categories_Merged_Monthly.csv           # Google Trends Categories Data
+│   ├── Fragrantica_Cleaned.csv                    # Cleaned + Structured Data (ready for analysis)
+│   ├── Fragrance_Notes_Master.csv                 # Notes Calculations (ready for analysis)
+│   ├── Fragrance_Categories_Master.csv            # Categories Calculations (ready for analysis)
 │
-├── scripts/
-│   ├── merge_notes_GT.R      # Merge note-level trend files
-│   ├── merge_cats_GT.R       # Merge category-level trend files
-│   ├── data_cleaning.R       # Full cleaning & tagging pipeline
+├── script/
+│   ├── Fragrance_Full_R_Scrip.txt     # Full R script
 │
 ├── visuals/
-│   ├── categories/           # Tableau charts: growth, opportunity, share vs. growth
-│   ├── notes/                # Emerging & underused note analysis
-│   ├── crossmarket/          # US vs. UK divergence dashboards
+│   ├── Fragrance_Categories_Visuals_&_Dashboards.twb           # Tableau charts & Dashboard for Categories
+│   ├── Fragrance_Notes_Visuals_&_Dashboards.twb                # Tableau charts & Dashboard for Notes
+│   ├── Fragrance_Notes_Categories_Visuals_&_Dashboards.twb     # Tableau charts & Dashboard for Notes by Category
 │
-├── Fragrance_Insights_Report.pdf    # Final written report  
-├── Fragrance_Trend_Deck.pptx        # Final presentation slides  
+├── report/    # Final written report  
+│   ├── Fragrance_Opportunity_Insights_Case_Study_Report.pdf     # Final Written Report
+│   ├── Fragrance_Opportunity_Insights_Deck.pptx                 # Final Presentation Slides
 ├── README.md  
-└── LICENSE
  ``` 
 
 ---
