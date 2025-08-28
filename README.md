@@ -63,23 +63,24 @@ fragrance-trend-analysis/
  ``` 
 
 ---
-## 📈 Key Insights  
+## 📈 Key Insights
+**Biggest whitespace:** rediscovering underused notes while reinventing classics.  
 
- **Green**, **Amber**, and **Gourmand** categories are the most under-leveraged but fast-rising segments.  
-- **Peach**, **Saffron**, **Apple**, **Lavender**, and **Ginger** show high trend momentum with low market saturation.  
-- **Vanilla**, **Rose**, and **Oud** dominate but risk oversaturation — brands need modern takes or fresh blends.  
-- **US** consumers are faster to adopt bold, experimental notes, while the **UK** market favors tradition.  
-- A **"Green Revival"** strategy offers a rare shared opportunity across both regions.
+- **Green & Rediscovery Opportunity:** *Leather, Amber, Oakmoss, Moss* are highly underused yet show strong consumer pull → whitespace for distinctive launches.
+- **High-Growth US Disruptors:** *Saffron, Peach, Oud, Ginger, Lavender* lead US momentum → bold experimentation and trend-driven launches.
+- **UK Heritage Anchors:** *Rose, Vanilla, Musk, Pear, Apple* dominate → innovation best introduced through limited editions and familiar blends.  
+- **Dual-Market Anchors:** *Vanilla, Rose, Jasmine, Woody* remain stable across both regions → require modern reinvention to avoid saturation.  
+- **Cross-Market Dynamic:** US = faster adoption of experimental notes; UK = heritage stability → **green revival acts as a shared growth bridge.**
 
 ---
 ## 📦 Deliverables
 
 This case study includes both a full written report and a visual presentation deck. These deliverables summarize the project’s methodology, findings, and strategic recommendations.
 
-- 📄 **Fragrance_Insights_Report.pdf**  
+- [📄 **Fragrance_Insights_Report.pdf**](./Fragrance_Insights_Report.pdf) 
   A comprehensive report outlining the data sources, methodology (including Opportunity Score and Buzz Score calculations), key insights, and market strategy recommendations.
 
-- 📊 **Fragrance_Trend_Deck.pptx**  
+- [📊 **Fragrance_Trend_Deck.pptx**](./Fragrance_Trend_Deck.pptx)  
   A visual summary presentation featuring Tableau dashboards, trend heatmaps, note/category opportunity matrices, and cross-market comparisons for stakeholders.
 
 You can find both files in the root directory of this repository.
