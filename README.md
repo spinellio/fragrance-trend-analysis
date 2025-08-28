@@ -81,7 +81,7 @@ This case study includes both a full written report and a visual presentation de
 - [📄 **Case Study Report — Fragrance Opportunities Insights (PDF)**](report/Fragrance_Opportunity_Insights_Case_Report.pdf)  
   A comprehensive report outlining the data sources, methodology (including Opportunity Score and Buzz Score calculations), key insights, and market strategy recommendations.
 
-- [📊 **Fragrance Opportunities Insights Report (PPTX)**](report/Fragrance_Opportunitiy_Insights_Deck.pptx)  
+- [📊 **Fragrance Opportunities Insights Report (PPTX)**](report/Fragrance_Opportunity_Insights_Deck.pptx)  
   A visual summary presentation featuring Tableau dashboards, trend heatmaps, note/category opportunity matrices, and cross-market comparisons for stakeholders.
 
 You can find both files in the root directory of this repository.
